@@ -137,8 +137,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="344.81424"
-     inkscape:cy="271.70971"
+     inkscape:cx="376.645"
+     inkscape:cy="330.68842"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -685,32 +685,22 @@
          id="g31922">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:25.73007584px;line-height:100%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:25.72999954px;line-height:100%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
            x="371.41312"
            y="377.99841"
            id="text17748"
            sodipodi:linespacing="100%"><tspan
              sodipodi:role="line"
-             x="371.41312"
-             y="377.99841"
-             id="tspan17752"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:25.73007584px;line-height:100%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow, Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start">За неоплаченную парковку штраф <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:25.73007584px;line-height:100%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow, Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#16722a;fill-opacity:1"
-   id="tspan17754">1 000</tspan> рублей</tspan></text>
+             id="tspan6538">За неоплаченную парковку штраф 1 000 ₽</tspan></text>
         <text
            sodipodi:linespacing="100%"
            id="text17758"
            y="349.34848"
            x="371.1702"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:26.24667358px;line-height:100%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:26.83000088px;line-height:100%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow, Bold Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:26.83039284px;line-height:100%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow, Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start"
-             id="tspan17762"
-             y="349.34848"
-             x="371.1702"
-             sodipodi:role="line">Стоимость часа парковки <tspan
-   id="tspan17764"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:26.83039284px;line-height:100%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow, Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#16722a;fill-opacity:1">30</tspan> рублей</tspan></text>
+             sodipodi:role="line"
+             id="tspan6536">Стоимость часа парковки 30 ₽</tspan></text>
       </g>
       <g
          id="g29667">
